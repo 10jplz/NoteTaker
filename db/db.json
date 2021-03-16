@@ -1,14 +1,1 @@
-[
-  {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "Homework",
-    "text": "This is my homework test "
-  },
-  {
-    "title": "Testing",
-    "text": "Note taker"
-  }
-]
+[{"title":"Todo list","text":"Here is my todo list\n","id":"0"},{"title":"Camping Trip","text":"This are the things I need to do for my camping trip\n","id":"1"}]
